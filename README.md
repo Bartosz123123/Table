@@ -1,4 +1,4 @@
-Link do zadania - https://bartosz123123.github.io/Table/
+Link do podglądu zadania - https://bartosz123123.github.io/Table/
 
 # Rekrut
 
