@@ -1,3 +1,5 @@
+Link do zadania - https://bartosz123123.github.io/Table/
+
 # Rekrut
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
